@@ -3,8 +3,6 @@
 ## Technologies
 React/React-Router/Fetch
 
-**DEMO:** [tuychin.ru/star-db](https://tuychin.ru/star-db)
-
 Using API-service: [swapi.dev](https://swapi.dev/)
 
 <br>
